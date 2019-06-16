@@ -27,14 +27,6 @@ print(squared_number)
 powered_number = 2 ** 7
 print(powered_number)
 
-# if you dont want the interpreter to handle / as special character
-non_escaped_character = '(c:/test/python/interpreter)'
-print(non_escaped_character)
-
-# print the number of instances before the string
-num_times = 3 * 'um' + 2 * 'test'
-print(num_times)
-
 
 
 
