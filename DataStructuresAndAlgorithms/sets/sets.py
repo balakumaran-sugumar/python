@@ -6,7 +6,7 @@ mySet.add(2)
 mySet.add(3)
 print(mySet)
 
-# testing uniqueness
+# submodule uniqueness
 
 my_list = [1, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 5, 6, 6]
 # type casting the data into sets

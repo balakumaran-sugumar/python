@@ -46,7 +46,7 @@ for i in range(5):
     print(i)
 
 # another way of using ranges
-rangeWords = [" Another set for testing", " using Range ", " this can be tested ", " more and more ", " with the ",
+rangeWords = [" Another set for submodule", " using Range ", " this can be tested ", " more and more ", " with the ",
               "same set"]
 
 for i in range(len(rangeWords)):
